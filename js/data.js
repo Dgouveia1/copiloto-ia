@@ -19,7 +19,8 @@ const TENANTS = {
         name: 'Investt Imóveis',
         primaryColor: '#3b82f6',
         secondaryColor: '#eff6ff',
-        logoText: 'logos/logo-investt.png',
+        logoText: 'investt',
+        logoUrl: 'logos/logo-investt.png',
         slug: 'investt' 
     },
     'lux': {

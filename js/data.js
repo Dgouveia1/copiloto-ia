@@ -15,12 +15,12 @@ const TENANTS = {
         logoUrl: 'logos/logo-kiko.png',
         slug: 'kiko-bim'
     },
-    'nova-era': {
-        name: 'Nova Era Consultoria',
+    'Investt Imóveis': {
+        name: 'Investt Imóveis',
         primaryColor: '#3b82f6',
         secondaryColor: '#eff6ff',
-        logoText: 'NE',
-        slug: 'nova-era'
+        logoText: 'logos/logo-investt.png',
+        slug: 'investt' 
     },
     'lux': {
         name: 'Lux Properties',

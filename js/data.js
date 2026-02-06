@@ -15,7 +15,7 @@ const TENANTS = {
         logoUrl: 'logos/logo-kiko.png',
         slug: 'kiko-bim'
     },
-    'Investt Imóveis': {
+    'investt': {
         name: 'Investt Imóveis',
         primaryColor: '#3b82f6',
         secondaryColor: '#eff6ff',
